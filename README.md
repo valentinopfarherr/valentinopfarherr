@@ -1,7 +1,7 @@
 
 <div>
-  <h1>Backend Developer</h1>
-  <p>Welcome to my GitHub profile! I am a backend developer with experience in building scalable and robust web applications. I enjoy working with cutting-edge technologies and taking on complex challenges.</p>
+  <h1>Valentino Pfarherr</h1>
+  <p>Welcome to my GitHub profile! I am an IT technician with experience in building scalable and robust web applications. I enjoy working with cutting-edge technologies and taking on complex challenges.</p>
   <h2>Skills and Expertise</h2>
   <ul>
     <li>Programming languages: Ruby On Rails, Node.js, Python</li>
