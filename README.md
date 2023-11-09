@@ -5,11 +5,11 @@
   <h2>Skills and Expertise</h2>
   <ul>
     <li>Programming languages: Ruby On Rails, Node.js, Python</li>
-    <li>Databases: PostgreSQL, MongoDB, OracleDB</li>
-    <li>Web frameworks: On Rails, Express.js, DJango</li>
-    <li>Cloud platforms: AWS, Heroku</li>
+    <li>Databases: PostgreSQL, MongoDB</li>
+    <li>Web frameworks: On Rails, Express.js</li>
+    <li>Cloud platforms: Heroku, AWS</li>
     <li>APIs: REST</li>
-    <li>DevOps tools: Docker</li>
+    <li>DevOps tools: Docker, Kubernetes</li>
   </ul>
   <h2>Contact Me</h2>
   <p>If you have any questions or would like to discuss a potential project, feel free to <a href="mailto:valentinopfarherr@gmail.com">contact me</a>.</p>
